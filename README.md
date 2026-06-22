@@ -1,5 +1,6 @@
 
-Please see my other projects at my (Github pages)[https://zainulfranciscus.github.io/]
+Please see my other projects at my [Github pages](https://zainulfranciscus.github.io/) 
+
 ## 📂 Project Structure
 
 Below is the complete directory structure of the project:
