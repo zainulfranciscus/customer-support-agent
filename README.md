@@ -1,8 +1,5 @@
-# customer-support-agent
 
-Simple ReAct agent
-Agent generated with `agents-cli` version `0.5.0`
-
+Please see my other projects at my (Github pages)[https://zainulfranciscus.github.io/]
 ## 📂 Project Structure
 
 Below is the complete directory structure of the project:
